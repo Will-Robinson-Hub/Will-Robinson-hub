@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Honeynet</b>
-  - [Praciting DS & Algos in Python](https://github.com/Will-Robinson-Hub/Azure-HoneyNet)
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Will-Robinson-Hub/Azure-HoneyNet)
 - <b>Vulnerability Management w/ Nessus</b>
-  - [Image Analysis Middleware](https://github.com/Will-Robinson-Hub/Vulnerability-Management)
+  - [Vulnerability Management with Nessus](https://github.com/Will-Robinson-Hub/Vulnerability-Management)
 
 <h2> 🤳 Connect with me:</h2>
 
