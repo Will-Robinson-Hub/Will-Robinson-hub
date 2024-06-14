@@ -6,6 +6,10 @@
   - [SOC/Honeynet in Azure (Live Traffic)](https://github.com/Will-Robinson-Hub/Azure-HoneyNet)
 - <b>Vulnerability Management w/ Nessus</b>
   - [Vulnerability Management with Nessus](https://github.com/Will-Robinson-Hub/Vulnerability-Management)
+ 
+<h2> 📚 Courses:</h2>
+
+Vulnerability Management Detection and Response (VMDR) via Qualys
 
 <h2> 🤳 Connect with me:</h2>
 
